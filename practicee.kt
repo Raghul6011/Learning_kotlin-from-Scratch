@@ -22,4 +22,5 @@ fun main()
 
     print(X)
     print("heloworld")
+    print("nothing in my hands")
 }
