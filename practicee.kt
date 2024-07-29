@@ -3,6 +3,7 @@
     var A= readLine()!!.toInt()
     var B = println(A*1000)
     var C = println(A*100000)
+    print("Nothing is permanent")
 
 }*/
 
@@ -23,4 +24,7 @@ fun main()
     print(X)
     print("heloworld")
     print("nothing in my hands")
+
+    print("Nothing is imposible")
+    print("Jolly yo jimkana")
 }
